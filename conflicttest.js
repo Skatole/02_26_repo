@@ -3,4 +3,6 @@ const conflict = (a, b) => {
 };
 
 
-
+const conflict2 = (c, d) => {
+  return c*d;
+};
